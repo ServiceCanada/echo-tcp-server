@@ -1,0 +1,21 @@
+{
+  "name": "echo-tcp-server",
+  "version": "1.0.0",
+  "description": "Echo TCP server for debugging ",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ServiceCanada/echo-tcp-server"
+  },
+  "license": "MIT",
+  "author": "Government of Canada",
+  "contributors": [
+    "duboisp"
+  ],
+  "scripts": {
+    "start": "node server.js",
+    "prod": "node server.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.0"
+  }
+}

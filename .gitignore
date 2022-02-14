@@ -1,0 +1,12 @@
+# Artefact
+node_modules/
+
+# OS directory
+.DS_Store
+.DS_Store?
+Thumbs.db
+
+# Instance configuration files
+.env
+.project
+responses/
